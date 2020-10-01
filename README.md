@@ -15,4 +15,5 @@ $database = "internship";
 
 # Usage
 
+You should create a database in your local phpMyAdmin named after ```$database``` config variable. Default value is "internship".
 Launch the server an open ```index.php``` file
